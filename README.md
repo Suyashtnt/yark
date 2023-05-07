@@ -55,12 +55,7 @@ Light and dark modes are both available and automatically apply based on the sys
 
 ## Roadmap
 
-Here's the general roadmap for Yark going a few months into the future for the upcoming features and changes:
-
-1. Yark 1.3 (Current): [Comments](https://github.com/Owez/yark/issues/50), [viewer tabs](https://github.com/Owez/yark/issues/30), [playlists](https://github.com/Owez/yark/issues/27), [viewed](https://github.com/Owez/yark/issues/51)
-2. Yark 1.4 (Expected ??): [Run command](https://github.com/Owez/yark/issues/83), [better homepage](https://github.com/Owez/yark/issues/65), [more graphs](https://github.com/Owez/yark/issues/74), [translations](https://github.com/Owez/yark/issues/73)
-3. Yark 1.5 (Expected ??): Full [GUI control](https://github.com/Owez/yark/issues/86) for archives and viewer polish/rewrite
-4. Onwards: Not sure yet, [create an issue](https://github.com/Owez/yark/issues/new) to help out :) 
+Yark is currently going through a slow and steady rewrite for improved code quality, with a [new GUI](https://github.com/Owez/yark/pull/105) also in the works. It will be a while until any new features come through, as the new GUI is blocked by an [external](https://github.com/tauri-apps/tauri/issues/6226) issue and the rewrite needs time for polish.
 
 ## Details
 
